@@ -1,0 +1,8 @@
+# compiled output
+/node_modules
+/node_modules/.cache
+
+
+# IDE - VSCode
+.vscode/*
+
