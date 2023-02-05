@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.jpg
-actionText: 快速上手 →
+actionText: 博客主页 →
 actionLink: /handbook/ConditionalTypes
 features:
 - title: 简洁至上
